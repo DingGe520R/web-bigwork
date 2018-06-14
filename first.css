@@ -1,0 +1,66 @@
+.bkimg{
+   margin: -8px;
+    position: absolute;
+    width:100%;
+    height:700px;
+}
+.hua{
+    font-size: 28px;
+    width: 300px;
+    height: 100px;
+
+    position: absolute;
+    margin-left: 850px;
+    color:palevioletred;
+    margin-top: 10px;
+}
+a:hover {color: purple;font-size: 35px}
+#nav1{
+    width: 150px;
+    height: 680px;
+    overflow: hidden;
+   position: absolute;
+   margin-left: 1150px;
+ margin-top: -5px;
+}
+#nav1 .fl{
+
+    width:130px;
+    height: 130px;
+    margin-top: 25px;
+    border-radius: 100px;
+
+}
+#nav1 img{
+    width:130px;
+    height: 130px;
+    border-radius: 100px;
+
+}
+#nav1 .f1 a{
+    text-decoration: none;
+}
+#nav2{
+
+    width: 150px;
+    height: auto;
+    overflow: hidden;
+    position: absolute;
+    margin-left: 1330px;
+}
+#nav2 .fl {
+    width: 20px;
+    height: 150px;
+    padding-top:30px;
+  color: palevioletred;
+    font-size: 18px;
+    font-family: 微软雅黑;
+}
+#nav2 .f2 {
+    width: 20px;
+    height: 150px;
+   margin-top: -15px;
+    color: palevioletred;
+    font-size: 18px;
+    font-family: 微软雅黑;
+}

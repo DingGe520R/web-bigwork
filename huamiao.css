@@ -1,0 +1,203 @@
+ body{
+    background-image: url("src/bj.jpg");
+    background-repeat:no-repeat;
+    background-size: 100% 2030px;
+}
+#nav{
+    width: 1000px;
+    height: 28px;
+    background: ghostwhite;
+    margin-top: -15px;
+    margin-left: 260px;
+    font-size: 13px;
+    line-height: 28px;
+    border-radius: 5px;
+}
+#nav .left{
+    margin-left:20px;
+
+}
+#nav .right{
+    float: right;
+    margin-top: -50px;
+    margin-right: 20px;
+}
+
+#image{
+    width:1000px;
+    margin: auto;
+
+}
+
+#ss{
+    width: 1000px;
+    height: 80px;
+    margin-left: 260px;
+    background:thistle;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+#ss input{
+    width: 550px;
+    margin-left: 200px;
+    border: solid 1px plum;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: -80px;
+    float: right;
+    margin-right: 200px;
+}
+.img1{
+    float: right;
+    margin-top: -73px;
+    margin-right: 170px;
+}
+.img2{
+    border-radius: 10px;
+    margin-top: -8px;
+}
+#ss p{
+    margin-left: 260px;
+    margin-top: -45px;
+    font-size: 14px;
+    color: gray;
+}
+a:hover {color: palevioletred}
+
+.a{
+    color: palevioletred;
+}
+#classify{
+    width: 1000px;
+    margin:auto;
+    height: 300px;
+    border: solid 1px gainsboro;
+    margin-top: 30px;
+    font-size: 13px;
+}
+#classify p{
+    margin-left: 10px;
+    border-bottom: dotted 1px plum;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    color: gray;
+    line-height: 30px;
+}
+#classify span{
+    color: black;
+    padding-bottom: 5px;
+    margin-left: 10px;
+}
+#classify .pp{
+    color: black;
+
+}
+#classify .pp a{
+    font-size: 15px;
+    text-decoration: none;
+}
+#cont{
+    width: 1000px;
+    height: auto;
+
+    margin: auto;
+
+}
+#cont .arrange{
+    width: 1000px;
+    height: 300px;
+    margin-left: 24px;
+    margin: auto;
+}
+#cont .a{
+    width:230px;
+    height: 350px;
+    border: solid 1px ghostwhite;
+    float: left;
+    margin:auto;
+    margin-left: 1px;
+    margin-top: 20px;
+
+}
+#cont .a1{
+    width:230px;
+    height: 350px;
+    border: solid 1px ghostwhite;
+    float: left;
+    margin-left: 24px;
+    margin-top: 20px;
+
+}
+#cont .tu{
+    width:230px;
+    height: 250px;
+    float: left;
+
+}
+#cont .tu img{
+    width:230px;
+    height: 250px;
+    float: left;
+}
+#cont  .zi{
+    width:210px;
+    height: 80px;
+    float: left;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+#cont  .s1{
+    font-size: 22px;
+    color: purple;
+
+
+}
+#cont  .s2{
+    font-size: 14px;
+    color: gray;
+    float: right;
+
+}
+#cont  .p2{
+    font-size: 13px;
+    color: black;
+    margin-top: -5px;
+}
+.p1 a:hover {color: red}
+.p2 a:hover {color: palevioletred;border-bottom: solid 1px palevioletred}
+.b{
+    color:palevioletred ;
+}
+#end {
+    width: 1000px;
+    height: 64px;
+    margin: auto;
+    background:ghostwhite;
+    color: #767676;
+    border-radius: 6px;
+    text-align: center;
+    padding-top: 14px;
+    line-height: 25px;
+    overflow: hidden;
+
+
+}
+
+#end a{
+    color: #454545;
+    margin:auto;
+    text-decoration:none;
+
+
+}
+#end .a2{
+    margin:auto;
+    text-align: left;
+    color: #999999;
+}
+#end .a2  span{
+    margin-left: 10px;
+}
